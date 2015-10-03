@@ -1,0 +1,16 @@
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\bin\Project.dll
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\bin\Project.pdb
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.dll
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
+D:\Project\Project\bin\Project.dll
+D:\Project\Project\bin\Project.pdb
+D:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Project\Project\obj\Debug\Project.dll
+D:\Project\Project\obj\Debug\Project.pdb
+F:\Project\Project\bin\Project.dll
+F:\Project\Project\bin\Project.pdb
+F:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Project\Project\obj\Debug\Project.dll
+F:\Project\Project\obj\Debug\Project.pdb
+F:\Project\Project\bin\Project.dll.config

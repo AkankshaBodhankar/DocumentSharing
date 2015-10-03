@@ -1,0 +1,167 @@
+.notifs {
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    margin-right: 30px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color:black;
+    filter: alpha(opacity=80);
+    opacity: .8;
+}
+#marquee {
+    font-style: italic;
+    color: #000066;
+    font-weight: bold;
+}
+.logout {
+    position: relative;
+    top: 0px;
+    left:0px;
+    right:10px;
+    height:50px;
+    width:107px;
+  
+}
+.kaksha {
+    background-image: url('../class.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+#head {
+    font-family: 'Monotype Corsiva';
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #FFFFFF;
+    font-style: italic;
+}
+ #box {
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-bottom: 20px;
+    margin-left: 430px;
+    padding: 20px 20px 30px 20px;
+    border-style: solid;
+    border-width: medium;
+    line-height: normal;
+    text-align: center;
+    float: left;
+    filter: alpha(opacity=50);
+    opacity: .5;
+    background-color: black;
+    top: 1000px;
+    right: 1000px;
+    left: 500px;
+    width: 400px;
+    height: 600px;
+    display: inline-block;
+    z-index: auto 34;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+
+
+#newpost{
+height:90px;
+   
+}
+
+.updates{
+width:80%;
+
+}
+.postclass{
+	width: 70%;
+}
+.newsfeed {
+    border:solid;
+border-radius:5px;
+border-color:black;
+}
+.subscribers{
+	margin:10px;
+}
+ .data {
+    width: 100%;
+    height: 400px;
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 20px;
+    filter: alpha(opacity=80);
+    opacity: .8;
+    background-color: #000000;
+}
+          .header
+       {
+            font-family:'Comic Sans MS';
+         font-size:200%;
+          color:lightgrey;
+         text-align:center;
+
+      }
+      .footer{
+           position:fixed;
+            bottom:0;
+            left:0;
+            right:0;
+            height:20px;
+            background-color:lightgray;
+            color:black;
+            clear:both;
+            text-align:center;
+            padding:5px;
+      }
+
+          .auto-style2 {
+              height: 54px;
+          }
+          .bac {
+    background-image: url('../class.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.data {
+    width: 100%;
+    height: 400px;
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 20px;
+    filter: alpha(opacity=80);
+    opacity: .8;
+    background-color: #000000;
+}
+
+.submitbutton{
+width: 90px !important;
+height: 45px !important;
+  float: right;
+}
+
+.profilepic{
+	height: 200px;
+	width: 150px;
+	margin: 15px;
+	margin-right: 30px;
+}
+
+.DisplayInline {
+ display: -webkit-box;
+ display: -moz-box;
+ display: -ms-flexbox;
+ display: -webkit-flex;
+ display: flex;
+ -webkit-box-orient: horizontal;
+ -moz-box-orient: horizontal;
+ -webkit-box-direction: normal;
+ -moz-box-direction: normal;
+ -webkit-flex-direction: row;
+ -ms-flex-direction: row;
+ flex-direction: row;
+}

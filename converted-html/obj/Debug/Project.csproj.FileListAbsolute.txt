@@ -1,0 +1,5 @@
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\bin\Project.dll
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\bin\Project.pdb
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.dll
+C:\Users\akanksha bodhankar\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb

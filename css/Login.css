@@ -1,0 +1,204 @@
+﻿ .auto-style1 {
+    border-style: double;
+    width: 30%;
+    height: 291px;
+    z-index: 1;
+    left: 451px;
+    top: 196px;
+    position: absolute;
+    background-color: lightgrey;
+}
+        .auto-style2 {
+            width: 217px;
+        }
+        .auto-style3 {
+            width: 217px;
+            text-align: right;
+            height: 71px;
+      
+        }
+        .auto-style4 {
+            width: 217px;
+            text-align: right;
+            height: 101px;
+       
+        }
+        .auto-style5 {
+            height: 101px;
+            color: #FF0000;
+            width: 212px;
+        }
+        .auto-style6 {
+    text-align: center;
+    color: #000000;
+    font-size: xx-large;
+    font-family: 'Monotype Corsiva';
+    font-style: italic;
+    text-transform: none;
+}
+        .auto-style7 {
+            height: 71px;
+            color: #FF0000;
+            width: 212px;
+        }
+        .auto-style8 {
+            height: 71px;
+            width: 353px;
+            text-align: left;
+          
+        }
+        .auto-style9 {
+            height: 101px;
+            width: 353px;
+           
+ 
+
+       }
+        .auto-style10 {
+            width: 353px;
+            color:lightgoldenrodyellow;
+            padding-right: 1px;
+        }
+
+        body
+        { 
+            color:black;
+            background-attachment:fixed;
+            background-size:cover;
+            background-repeat:no-repeat;
+            height: 448px;
+            background-image: url('images.jpg'); }
+
+
+        .auto-style11 {
+            width: 217px;
+            height: 23px;
+        }
+        .auto-style12 {
+            width: 353px;
+            color: lightgoldenrodyellow;
+            height: 23px;
+        }
+        .auto-style13 {
+            height: 23px;
+            width: 212px;
+        }
+
+        .auto-style14 {
+            width: 212px;
+        }
+
+        .auto-style15 {
+            border-left-style: solid;
+            border-left-width: 2px;
+        }
+
+        .auto-style16 {
+            z-index: 1;
+            left: 91px;
+            top: 185px;
+            position: absolute;
+        }
+
+        .auto-style17 {
+            z-index: 1;
+            left: 95px;
+            top: 240px;
+            position: absolute;
+            width: 148px;
+            right: 151px;
+        }
+        .auto-style18 {
+            z-index: 1;
+            left: 93px;
+            top: 217px;
+            position: absolute;
+            width: 129px;
+        }
+         .auto-style19 {
+            border-style: double;
+            width: 31%;
+            height: 317px;
+            z-index: 1;
+            left: 463px;
+            top: 170px;
+            position: absolute;
+            background-color: lightgrey;
+        }
+        .auto-style21 {
+            width: 368px;
+            text-align: center;
+            height: 101px;
+        }
+        .auto-style22 {
+            width: 368px;
+            height: 59px;
+        }
+        .auto-style24 {
+            z-index: 1;
+            left: 105px;
+            top: 240px;
+            position: absolute;
+        }
+        .auto-style25 {
+            z-index: 1;
+            left: 112px;
+            top: 271px;
+            position: absolute;
+            width: 129px;
+        }
+        .auto-style26 {
+            z-index: 1;
+            left: 109px;
+            top: 307px;
+            position: absolute;
+            width: 148px;
+            right: 142px;
+        }
+        .auto-style27 {
+            height: 131px;
+            width: 353px;
+            text-align: left;
+            border-radius: 25px;
+        }
+        .auto-style28 {
+            width: 368px;
+            text-align: center;
+            height: 131px;
+        }
+        .auto-style29 {
+            height: 131px;
+            color: #FF0000;
+            width: 212px;
+        }
+        .auto-style30 {
+            width: 353px;
+            color: lightgoldenrodyellow;
+            padding-right: 1px;
+            height: 59px;
+        }
+        .auto-style31 {
+            width: 212px;
+            height: 59px;
+        }
+        .auto-style32 {
+            width: 353px;
+            color: lightgoldenrodyellow;
+            height: 69px;
+        }
+        .auto-style33 {
+            width: 368px;
+            height: 69px;
+        }
+        .auto-style34 {
+            width: 212px;
+            height: 69px;
+        }
+        .auto-style35 {
+            text-align: center;
+            color: #FFFFFF;
+            font-size: xx-large;
+            font-family: 'Monotype Corsiva';
+            font-style: italic;
+            text-transform: none;
+        }
