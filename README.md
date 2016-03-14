@@ -18,6 +18,11 @@ Profile of students
 
 Technologies used
 
-•	Designed the complete database for the portal. 
-•	Used C# (backend), HTML5, CSS3 (Front End), Microsoft SQL Server (database) for implementation. 
-•	Used Microsoft Visual Studio 2015 as platform.
+     Designed the complete database for the portal. 
+     Used C# (backend), HTML5, CSS3 (Front End), Microsoft SQL Server (database) for implementation. 
+     Used Microsoft Visual Studio 2015 as platform.
+     
+![screenshot 523](https://cloud.githubusercontent.com/assets/14356938/13759470/66ad2db6-ea54-11e5-8216-7cb6b2b687ff.png)
+![screenshot 520](https://cloud.githubusercontent.com/assets/14356938/13759472/66ad4562-ea54-11e5-871e-39add7059b76.png)
+![screenshot 521](https://cloud.githubusercontent.com/assets/14356938/13759471/66ad4fa8-ea54-11e5-9db9-2c23c79ce71c.png)
+
