@@ -1,4 +1,4 @@
-DOCUMENT SHARING
+DOCUMENT SHARING - KAKSHA
 
 Portal for interaction between students and teachers 
 This application provides an interface where the teachers can upload documents and students can retrieve them
