@@ -22,7 +22,7 @@ The teachers can also send personal notifications to the student
       Download Files      
       See Latest Posts of teachers
 
-Technologies used
+#####Technologies used
 
      Designed the complete database for the portal. 
      Used C# (backend), HTML5, CSS3 (Front End), Microsoft SQL Server (database) for implementation. 
