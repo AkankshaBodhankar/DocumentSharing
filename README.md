@@ -1,17 +1,22 @@
-DOCUMENT SHARING (A Student Teacher Intercation Portal)- KAKSHA
+#DOCUMENT SHARING (A Student Teacher Interaction Portal)- KAKSHA
 
 Portal for interaction between students and teachers 
+
 This application provides an interface where the teachers can upload documents and students can retrieve them
+
 The student must be subscribed to a teacher in order to get the documents posted by the teacher
+
 The teachers can also send personal notifications to the student
 
-Roles of users
+####Roles of users
 
-Profile of teachers
+#####Profile of teachers
+
      Upload Files 
      Send personal notifications to students
 
-Profile of students
+#####Profile of students
+
       Register & Subscribe to the Teachers
       Get notifications  
       Download Files      
